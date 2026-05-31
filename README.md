@@ -31,7 +31,6 @@ Utilizo <strong>Linux</strong> como sistema principal de desenvolvimento e <stro
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
   <img src="https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/LÖVE2D-EA316E?style=for-the-badge">
