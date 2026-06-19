@@ -2,7 +2,7 @@
 <h2>Sobre mim</h2>
 
 <p>
-Olá! Eu sou <strong>Guilherme</strong>, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Universidade Católica de Brasília (UCB)</strong>.
+Olá! Eu sou <strong>Guilherme</strong>, estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Universidade Católica de Brasília (UCB) 2º período 1º semestre</strong>.
 </p>
 
 <p>
