@@ -8,18 +8,18 @@ Comecei a programar aos 14 anos, inicialmente desenvolvendo scripts para MTA:SA.
 
 ## Foco atual
 
-* Java
-* Backend
-* APIs REST
-* SQL e bancos de dados
-* Linux
-* Git/GitHub
+ Java
+ Backend
+ APIs REST
+ SQL e bancos de dados
+ Linux
+ Git/GitHub
 
 ## Tecnologias
 
-**Principais:** Java, Spring Boot, SQL e JavaScript.
+Principais: Java, Spring Boot, SQL e JavaScript.
 
-**Também tenho experiência com:** Python, C, Lua, HTML, CSS, Electron, Canvas API, LÖVE2D e TIC-80.
+Também tenho experiência com: Python, C, Lua, HTML, CSS, Electron, Canvas API, LÖVE2D e TIC-80.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -51,7 +51,7 @@ Comecei a programar aos 14 anos, inicialmente desenvolvendo scripts para MTA:SA.
 
 ## Projetos
 
-Atualmente desenvolvendo projetos maiores em **Java** e **JavaScript**, além de projetos envolvendo backend, jogos e desenvolvimento de software.
+Atualmente desenvolvendo projetos maiores em Java e JavaScript, além de projetos envolvendo backend, jogos e desenvolvimento de software.
 
 ## Além do código
 
