@@ -6,7 +6,7 @@ Desenvolvedor em formação, com foco em **Java, Backend e desenvolvimento de so
 
 Comecei a programar aos 14 anos, inicialmente desenvolvendo scripts para MTA:SA. Desde então, venho explorando diferentes áreas da programação e construindo projetos próprios.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica de Brasília (UCB) e estou no 2º período.
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica de Brasília (UCB) e estou no 3º período.
 
 ## Foco atual
 
